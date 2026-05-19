@@ -1,0 +1,146 @@
+{
+  "Tomato___Early_blight": {
+    "pathogen": "Alternaria solani (fungus)",
+    "pesticide": "Chlorothalonil, Mancozeb, Copper-based fungicides",
+    "treatment": "Remove infected leaves; apply fungicide every 7-10 days; avoid overhead irrigation.",
+    "weather": "Warm (24-29\u00b0C), humid conditions with wet foliage."
+  },
+  "Tomato___Late_blight": {
+    "pathogen": "Phytophthora infestans (oomycete)",
+    "pesticide": "Metalaxyl, Cymoxanil + Mancozeb, Dimethomorph",
+    "treatment": "Destroy infected plants; apply systemic fungicide; improve field drainage.",
+    "weather": "Cool (10-20\u00b0C), wet and foggy weather accelerates spread."
+  },
+  "Tomato___Bacterial_spot": {
+    "pathogen": "Xanthomonas vesicatoria (bacterium)",
+    "pesticide": "Copper hydroxide, Copper oxychloride",
+    "treatment": "Use certified disease-free seed; spray copper-based bactericide at 10-day intervals.",
+    "weather": "Hot (25-30\u00b0C), rainy with high humidity promotes infection."
+  },
+  "Tomato___Leaf_Mold": {
+    "pathogen": "Passalora fulva (fungus)",
+    "pesticide": "Chlorothalonil, Thiram, Mancozeb",
+    "treatment": "Improve greenhouse ventilation; apply protectant fungicide at first sign.",
+    "weather": "High humidity (>85%) with mild temps (22-25\u00b0C)."
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "pathogen": "Septoria lycopersici (fungus)",
+    "pesticide": "Chlorothalonil, Mancozeb, Copper fungicides",
+    "treatment": "Remove infected lower leaves; avoid wetting foliage; apply fungicide.",
+    "weather": "Warm (20-25\u00b0C), wet weather with frequent rain or dew."
+  },
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "pathogen": "Tetranychus urticae (mite)",
+    "pesticide": "Abamectin, Bifenazate, Spiromesifen",
+    "treatment": "Apply miticide; increase humidity; introduce predatory mites.",
+    "weather": "Hot (>27\u00b0C), dry, dusty conditions favour mite outbreaks."
+  },
+  "Tomato___Target_Spot": {
+    "pathogen": "Corynespora cassiicola (fungus)",
+    "pesticide": "Azoxystrobin, Boscalid, Chlorothalonil",
+    "treatment": "Improve air circulation; apply fungicide at first symptoms.",
+    "weather": "Warm (25-30\u00b0C) with high humidity and leaf wetness."
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "pathogen": "Tomato yellow leaf curl virus (TYLCV) via whitefly",
+    "pesticide": "Imidacloprid, Thiamethoxam (against whitefly vector)",
+    "treatment": "Remove infected plants; use reflective mulches; apply insecticide to control whitefly.",
+    "weather": "Warm dry conditions favour whitefly populations and virus spread."
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "pathogen": "Tomato mosaic virus (ToMV)",
+    "pesticide": "No direct pesticide; control aphid vectors with Imidacloprid",
+    "treatment": "Remove and destroy infected plants; disinfect tools; use resistant varieties.",
+    "weather": "Virus spreads mechanically; high temperatures weaken plant resistance."
+  },
+  "Tomato___healthy": {
+    "pathogen": "None detected",
+    "pesticide": "No pesticide required",
+    "treatment": "Continue regular monitoring and good agricultural practices.",
+    "weather": "Maintain optimal temperature (21-27\u00b0C) and adequate moisture."
+  },
+  "Potato___Early_blight": {
+    "pathogen": "Alternaria solani (fungus)",
+    "pesticide": "Azoxystrobin, Difenoconazole, Mancozeb",
+    "treatment": "Rotate crops every 3 years; apply fungicide at first symptoms.",
+    "weather": "Warm days (20-30\u00b0C) with high humidity trigger outbreaks."
+  },
+  "Potato___Late_blight": {
+    "pathogen": "Phytophthora infestans (oomycete)",
+    "pesticide": "Metalaxyl-M + Mancozeb, Cymoxanil",
+    "treatment": "Haulm destruction before harvest; use resistant varieties; foliar fungicide spray.",
+    "weather": "Wet, cool spells (10-15\u00b0C) are ideal for disease spread."
+  },
+  "Potato___healthy": {
+    "pathogen": "None detected",
+    "pesticide": "No pesticide required",
+    "treatment": "Continue normal irrigation and balanced fertilisation.",
+    "weather": "Keep soil evenly moist; avoid waterlogging."
+  },
+  "Corn_(maize)___Common_rust_": {
+    "pathogen": "Puccinia sorghi (fungus)",
+    "pesticide": "Propiconazole, Tebuconazole, Azoxystrobin",
+    "treatment": "Plant resistant hybrids; apply foliar fungicide at early rust appearance.",
+    "weather": "Cool (16-23\u00b0C), humid with morning dew favours spore germination."
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "pathogen": "Exserohilum turcicum (fungus)",
+    "pesticide": "Azoxystrobin, Pyraclostrobin, Propiconazole",
+    "treatment": "Use resistant hybrids; apply fungicide at VT/R1 stage.",
+    "weather": "Moderate temps (18-27\u00b0C) with extended wet, humid conditions."
+  },
+  "Corn_(maize)___healthy": {
+    "pathogen": "None detected",
+    "pesticide": "No pesticide required",
+    "treatment": "Maintain adequate fertility and irrigation.",
+    "weather": "Optimal growth at 24-30\u00b0C with regular moisture."
+  },
+  "Apple___Apple_scab": {
+    "pathogen": "Venturia inaequalis (fungus)",
+    "pesticide": "Captan, Myclobutanil, Thiophanate-methyl",
+    "treatment": "Prune infected branches; destroy fallen leaves; apply protective fungicide at bud break.",
+    "weather": "Cool, moist spring (18-24\u00b0C) with frequent rain."
+  },
+  "Apple___Black_rot": {
+    "pathogen": "Botryosphaeria obtusa (fungus)",
+    "pesticide": "Captan, Thiophanate-methyl, Ziram",
+    "treatment": "Prune and burn infected branches; apply fungicide from pink bud stage.",
+    "weather": "Warm (25-30\u00b0C), wet periods during growing season."
+  },
+  "Apple___Cedar_apple_rust": {
+    "pathogen": "Gymnosporangium juniperi-virginianae (fungus)",
+    "pesticide": "Myclobutanil, Propiconazole, Mancozeb",
+    "treatment": "Remove nearby cedar/juniper hosts; apply protective fungicide at bud break.",
+    "weather": "Spring rains (18-24\u00b0C) trigger spore release from cedars."
+  },
+  "Apple___healthy": {
+    "pathogen": "None detected",
+    "pesticide": "No pesticide required",
+    "treatment": "Standard orchard management and monitoring.",
+    "weather": "Ideal growth at 18-24\u00b0C with moderate rainfall."
+  },
+  "Grape___Black_rot": {
+    "pathogen": "Guignardia bidwellii (fungus)",
+    "pesticide": "Myclobutanil, Mancozeb, Captan",
+    "treatment": "Remove mummified fruit; prune for airflow; apply fungicide pre/post-bloom.",
+    "weather": "Warm (26-30\u00b0C), wet weather during bloom is most critical."
+  },
+  "Grape___Esca_(Black_Measles)": {
+    "pathogen": "Phaeomoniella chlamydospora + Phaeoacremonium spp. (fungi)",
+    "pesticide": "No curative fungicide; trunk injection with Thiabendazole may help",
+    "treatment": "Prune during dry conditions; remove and burn affected wood; protect pruning wounds.",
+    "weather": "Warm, dry summers after wet winters favour disease expression."
+  },
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "pathogen": "Isariopsis clavispora (fungus)",
+    "pesticide": "Mancozeb, Carbendazim, Copper fungicides",
+    "treatment": "Remove and destroy infected leaves; apply protective fungicide early season.",
+    "weather": "High humidity and warm temperatures (25-30\u00b0C)."
+  },
+  "Grape___healthy": {
+    "pathogen": "None detected",
+    "pesticide": "No pesticide required",
+    "treatment": "Standard vineyard monitoring and canopy management.",
+    "weather": "Optimal growth at 15-25\u00b0C with moderate humidity."
+  }
+}
